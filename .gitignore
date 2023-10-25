@@ -1,2 +1,6 @@
+#ignore vscode setting files
 .vscode
+#...
 .git
+#.. ignore exetutable files
+*.exe
